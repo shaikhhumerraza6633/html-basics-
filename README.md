@@ -1,19 +1,10 @@
-<HTML>
-
-<HEAD>
-
-<TITLE>
-
-MT FRIST PRACTIAL
-
-</TITLE>
-
-</HEAD>
-
-<BODY>
-
-<P>HI THIS THE FRIST WEB SIDE FROM USING HTML</P>
-
-</BODY>
-
-</HTML>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Hello, I'm Humer</h1>
+    <p>This is my first HTML project.</p>
+</body>
+</html>
